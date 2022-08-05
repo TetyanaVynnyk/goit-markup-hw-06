@@ -849,7 +849,7 @@ button {
 }
 
 .modal-form-check:checked+.modal-form-check-desc::before {
-    background-image: url(/images/icon_check.svg);
+    background-image: url(./images/icon_check.svg);
     background-size: cover;
     border: var(--accent-color);
 }
